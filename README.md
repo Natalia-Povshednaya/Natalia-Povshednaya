@@ -19,34 +19,6 @@
 [![Yandex DataLens](https://img.shields.io/badge/Yandex_DataLens-FFCC00?style=for-the-badge&logo=yandex&logoColor=black)](https://datalens.yandex/)
 
 
-### 💼 Коммерческий проект
-
-**Дашборд для Иркутского областного психоневрологического диспансера**
-
-Разработка аналитического дашборда для визуализации и мониторинга показателей.
-
-[Посмотреть дашборд в Yandex DataLens](https://datalens.yandex/1dkvfyos77rck?_share_link=public)
-
-
-### 📊 Проекты
-
-| Проект | Описание | Инструменты |
-|---|---|---|
-| Анализ вакансий аналитиков | Исследование рынка вакансий, зарплат и востребованных навыков | Python, Pandas, Matplotlib |
-| Анализ недвижимости | SQL-анализ рынка недвижимости | PostgreSQL |
-| Анализ Яндекс Афиши | Исследование выручки, заказов, поведения пользователей и продуктовых метрик | Python, Pandas |
-| Анализ стартапов | Исследовательский анализ данных о стартапах | Python, Pandas, Seaborn |
-| Анализ Яндекс Книг | Расчёт MAU, LTV, Retention и проверка гипотез | Python, Pandas, SciPy |
-
-
-### 🎯 Сейчас развиваюсь в направлениях
-
-- SQL и Python для анализа данных;
-- продуктовая аналитика и A/B-тестирование;
-- визуализация данных и построение BI-дашбордов;
-- аналитика продаж и маркетплейсов.
-  
-
 ### 📫 На связи
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Natali_Sudak)
