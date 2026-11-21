@@ -16,12 +16,11 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Yandex DataLens](https://img.shields.io/badge/Yandex_DataLens-FFCC00?style=for-the-badge&logo=yandex&logoColor=black)](https://datalens.yandex/)
 
+### 🤖 Мой бот для помощи в анализе 
+
+[![Natalia Data Assistant](https://img.shields.io/badge/Telegram_Data_Assistant-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/natalia_data_helper_bot)
 
 ### 📫 На связи
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Natali_Sudak)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:natalia_povshednaya@mail.ru)
-
-
-
-
